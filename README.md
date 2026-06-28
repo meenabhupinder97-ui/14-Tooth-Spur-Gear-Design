@@ -24,6 +24,7 @@ A complete set of 3D models and 2D engineering drawings for a standard 14-tooth 
 * `/images`: Contains visual renders and wireframe screenshots of the gear.
 * .dwg
 * .pdf
+* .png
 
 ## How to Use This Model
 
